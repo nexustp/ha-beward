@@ -3,7 +3,7 @@
   "name": "Beward",
   "documentation": "https://github.com/Limych/ha-beward",
   "dependencies": [],
-  "config_flow": false,
+  "config_flow": true,
   "codeowners": [
     "@Limych"
   ],
